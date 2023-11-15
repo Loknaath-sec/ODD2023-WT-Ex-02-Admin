@@ -1,4 +1,4 @@
-# Ex-02-Admin
+# Ex-02-Admin User using function-based views
 ## NAME: P.LOKNAATH
 ## REFERENCE NUMBER: 23004546
 ## AIM:
